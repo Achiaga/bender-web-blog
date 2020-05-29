@@ -16,12 +16,12 @@ class IndexPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
-        <h1>
-          Hey people{" "}
+        <h2>
+          Hey people, I'm bender_dev!{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
-        </h1>
+        </h2>
         <p>Welcome to your new Gatsby website. You are on your home page.</p>
         <p>
           This starter comes out of the box with styled components and Gatsby's
